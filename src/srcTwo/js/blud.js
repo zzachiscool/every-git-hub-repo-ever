@@ -1,3 +1,4 @@
+import pygame
 var js=0
 var killLiam=False
 if (js==0){
